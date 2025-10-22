@@ -1,4 +1,4 @@
-# 📊 db-migration-azure-data
+# 📊 Azure Database Migration Pipeline
 
 ## 📘 Project Overview
 
